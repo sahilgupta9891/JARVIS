@@ -7,16 +7,17 @@ Jarvis is a versatile Chrome extension designed to streamline your browsing expe
 - [Usage](#usage)
 
 ## Installation
-1.**Clone this repository to your local machine:**
+1. **Clone this repository to your local machine:**
 
    ```bash
    git clone https://github.com/sahilgupta9891/JARVIS.git
    cd jarvis
    ```
-2.**Open Chrome and navigate to chrome://extensions/.**
-3.**Enable "Developer mode" by toggling the switch in the top right corner.**
-4.**Click "Load unpacked" and select the cloned repository folder.**
-5.**Jarvis is now ready to enhance your browsing experience!**
+2. **Open Chrome and navigate to chrome://extensions/.**
+3. **Enable "Developer mode" by toggling the switch in the top right corner.**
+4. **Click "Load unpacked" and select the cloned repository folder.**
+5. **Jarvis is now ready to enhance your browsing experience!**
+
 ## Usage
 
 After installation, you can access Jarvis through the Chrome toolbar. Here’s how to use its features:
